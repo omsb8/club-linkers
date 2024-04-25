@@ -1,0 +1,51 @@
+570," Philosophy",142319
+571," Physics",82694.4
+572," Biology",72130.6
+573," Philosophy",123575
+574," Mathematics",127546
+575," Art",140608
+576," History",50313.4
+577," Physics",67982.5
+578," Mathematics",138331
+579," Computer Science",142394
+580," Economics",142748
+581," Physics",130974
+582," Engineering",68386.6
+583," History",120792
+584," Biology",145476
+585," Philosophy",135061
+586," Mathematics",69272.1
+587," Mathematics",108863
+588," Computer Science",59988.1
+589," Economics",135784
+590," Art",75033.2
+591," History",63827.9
+592," Psychology",102533
+593," Physics",120330
+594," Computer Science",93218.3
+595," Art",126301
+596," Mathematics",57371.9
+597," History",77865.4
+598," Computer Science",62610.9
+599," Psychology",55909.8
+600," Computer Science",103097
+601," Computer Science",84390.2
+602," Art",57932.6
+603," Psychology",99882.9
+604," Philosophy",145558
+605," Physics",82540.1
+606," Physics",129773
+607," Psychology",101753
+608," Physics",50781.6
+609," History",114574
+610," Art",60944.1
+611," Art",94551.2
+612," Art",120237
+613," Physics",66604.9
+614," Mathematics",149907
+615," Physics",78858.2
+616," Psychology",86636
+617," Mathematics",140931
+618," Psychology",129584
+619," Computer Science",110629
+620," Mathematics",63276.5
